@@ -1,0 +1,1 @@
+jupyter-notebook \\wbi.nxp.com\Users2\nxp25310\Data\Projects\SofA\CAFCR\py_sofa
